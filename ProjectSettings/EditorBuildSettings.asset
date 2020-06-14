@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/welcome.unity
+    guid: a9081b9638ce20e43b8fc68a6641c11d
+  - enabled: 0
+    path: Assets/xaxalitetv.unity
+    guid: b492b0a5ff5855e49a54fd077772eb57
+  - enabled: 0
+    path: Assets/more-things/beta-menu-v2.unity
+    guid: f7694ec8b0292c64fa6da231ecbc8e53
+  - enabled: 0
+    path: Assets/more-things/xaxabeta.unity
+    guid: f168fc95f45cb9b4fb4b2f5168eb148c
+  - enabled: 0
+    path: Assets/more-things/beta-menu.unity
+    guid: 8cd8f17c196b4684ba57bad29e30ff55
+  - enabled: 1
+    path: Assets/xaxalite7.unity
+    guid: 857647963a03a814c92cb4bdb95b8e66
+  - enabled: 0
+    path: Assets/more-things/divide-scene.unity
+    guid: 2dc736ca9b07cd8408a55bae4a05dedf
+  - enabled: 0
+    path: Assets/more-things/minus-scene.unity
+    guid: 35f3789510d565544846f862068a94f3
+  - enabled: 0
+    path: Assets/more-things/plus-scene.unity
+    guid: 50d1a8b2f81b2654bb2d62b1ab9da4e6
+  - enabled: 0
+    path: Assets/xaxawear/aw39.unity
+    guid: f4f3c3491a2944c408e12b024692305f
