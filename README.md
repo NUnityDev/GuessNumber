@@ -1,5 +1,5 @@
 # Guess Number
-Guess Number is now open source.
+[Guess Number](https://www.facebook.com/guessnumberofficial) is now open source.
 
 Keep in mind I wrote most of this game's code back in 2017, when my Unity skills weren't that good.
 
